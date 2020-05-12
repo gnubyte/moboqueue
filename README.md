@@ -1,6 +1,6 @@
 # MoboQueue
 
-[logo]: https://github.com/gnubyte/moboqueue/docs/logos/icon1.png "MoboQueue Logo"
+[logo]: https://github.com/gnubyte/moboqueue/raw/master/docs/logos/icon1.png "MoboQueue Logo"
 
 _A MessageQueue system with timed submissions and file support_
 
