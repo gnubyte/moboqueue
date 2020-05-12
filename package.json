@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/gnubyte/moboqueue/issues"
   },
-  "homepage": "https://github.com/gnubyte/moboqueue#readme"
+  "homepage": "https://github.com/gnubyte/moboqueue#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
