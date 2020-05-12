@@ -1,0 +1,28 @@
+{
+  "name": "moboqueue",
+  "version": "1.0.0",
+  "description": "A timed message queue system with file support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnubyte/moboqueue.git"
+  },
+  "keywords": [
+    "message-queue",
+    "message_queue",
+    "mobo",
+    "openmobo",
+    "open",
+    "opensource",
+    "MIT"
+  ],
+  "author": "Patrick Hastings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnubyte/moboqueue/issues"
+  },
+  "homepage": "https://github.com/gnubyte/moboqueue#readme"
+}
