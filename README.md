@@ -11,4 +11,4 @@ _A MessageQueue system with timed submissions and file support_
 
 #### Misc/Contribution
 
- - jsdoc for doc generation
+ - jsdoc for doc generation (UPDATE: tried it, doesnt really seem to comply even after specifying plugins. Might be too early)
