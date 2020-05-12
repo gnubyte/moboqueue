@@ -27,5 +27,8 @@
   "homepage": "https://github.com/gnubyte/moboqueue#readme",
   "dependencies": {
     "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
   }
 }
